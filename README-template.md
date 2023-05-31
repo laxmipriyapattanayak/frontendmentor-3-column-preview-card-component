@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/laxmipriyapattanayak/frontendmentor-3-column-preview-card-component)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: (https://tiny-kitten-667429.netlify.app/)
 
 ## My process
 
